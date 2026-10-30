@@ -1,0 +1,11 @@
+{
+  "name": "osmossi-studio",
+  "version": "1.0.0",
+  "description": "Operate the Osmossi Studio app from Cowork: plan and update the Instagram and Pinterest posting calendar, refresh trend notes, and report store KPIs from Shopify.",
+  "author": {
+    "name": "Osmossi",
+    "email": "juanpablo@osmossi.com"
+  },
+  "homepage": "https://claude.ai/artifact/8sG5GhyLZu3ptF4RH1jtUY",
+  "keywords": ["marketing", "instagram", "pinterest", "content-calendar", "shopify", "trends"]
+}

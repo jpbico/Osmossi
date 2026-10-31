@@ -1,0 +1,17 @@
+{
+  "name": "osmossi",
+  "owner": {
+    "name": "Osmossi",
+    "email": "juanpablo@osmossi.com"
+  },
+  "plugins": [
+    {
+      "name": "osmossi-studio",
+      "source": "./osmossi-studio-plugin",
+      "description": "Operate the Osmossi Studio app: posting calendar, trend notes and Shopify store report."
+    }
+  ],
+  "metadata": {
+    "description": "Osmossi marketing plugins for Claude and Cowork."
+  }
+}

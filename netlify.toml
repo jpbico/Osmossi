@@ -1,0 +1,11 @@
+# Netlify settings for the Osmossi Studio app.
+# The app is one static page in site/: there is nothing to build.
+[build]
+  publish = "site"
+  command = ""
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
